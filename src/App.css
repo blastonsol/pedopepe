@@ -237,3 +237,49 @@
   width:200px;
   height: 200px;
 }
+@media only screen and (max-width: 420px) {
+  .joinTextBlock {
+    margin:0;
+    text-align: center;
+  }
+  .heading{
+    font-size: 80px;
+  }
+  .headingBlock2{
+    text-align: center;
+    display: block;
+  }
+  .section2{
+    background-size: cover;
+  }
+  .aboutContent{
+    display:block;
+  }
+  .aboutText {
+    text-align: center;
+  }
+  .spingpepe {
+    max-width: 350px;
+    margin-right: 0px;
+  }
+  .leftAbout {
+    text-align: center;
+  }
+  .smalllogo{
+    margin-right:0px;
+  }
+  .socialBlock{
+    display: block;
+  }
+  .leftDiv{
+    display: block;
+    text-align: center;
+  }
+  .rightDiv{
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .social {
+    max-width: 250px;
+  }
+}
