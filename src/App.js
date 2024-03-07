@@ -84,7 +84,7 @@ of craziness!</p>
         </div>
         <div className="rightDiv">
           <a href="https://t.me/pedopepe" target="_blank" rel="noopener noreferrer"><img className="social" alt="Telegram" src={TG} /></a>
-          <a href="https://t.me/PedoPepeSol" target="_blank" rel="noopener noreferrer"><img className="social" alt="X" src={TW} /></a>
+          <a href="https://x.com/PedoPepeSol" target="_blank" rel="noopener noreferrer"><img className="social" alt="X" src={TW} /></a>
         </div>
         </div>
       </div>
