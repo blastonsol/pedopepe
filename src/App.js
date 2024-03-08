@@ -13,7 +13,7 @@ import './App.css';
 
 function App() {
 
-  const contract = "pow6L1rxNLh6PVKPbjLVAF8YNCYwgo7H9sZpqxfx7fH"
+  const contract = "TBA"
 
   return (
     <div className="App">
@@ -24,7 +24,7 @@ function App() {
         <div className="headingBlock">
           <h1 className="heading">PEDOPEPE</h1>
           <h3 className="subheading black">Kids let's play Solana</h3>
-          <a href="https://t.me/pedopepe" target="_blank" rel="noopener noreferrer"><button className="button">play</button></a>
+          <a href="https://t.me/PedoPepeSol" target="_blank" rel="noopener noreferrer"><button className="button">play</button></a>
         </div>
         <div className="pepekidBlock">
           <img alt="pepekid" src={pepekid} className="pepekid"/>
@@ -65,8 +65,8 @@ of craziness!</p>
           -LIQUIDITY KIDS- <br/> BURNED
         </p>
         <div className="dexBlock">
-          <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=pow6L1rxNLh6PVKPbjLVAF8YNCYwgo7H9sZpqxfx7fH&fixed=in" target="_blank" rel="noopener noreferrer"><img className="raydium dexImg" alt="raydium" src={raydium} /></a>
-          <a href="https://jup.ag/swap/pow6L1rxNLh6PVKPbjLVAF8YNCYwgo7H9sZpqxfx7fH-SOL" target="_blank" rel="noopener noreferrer"><img className="jupiter dexImg" alt="jupiter" src={jupiter} /></a>
+          <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=cont&fixed=in" target="_blank" rel="noopener noreferrer"><img className="raydium dexImg" alt="raydium" src={raydium} /></a>
+          <a href="https://jup.ag/swap/cont-SOL" target="_blank" rel="noopener noreferrer"><img className="jupiter dexImg" alt="jupiter" src={jupiter} /></a>
         </div>
       </div>
       <div className="section5">
@@ -83,7 +83,7 @@ of craziness!</p>
           <p className="white text2">Follow our latest news and become <br/> a member of the community now!</p></div>
         </div>
         <div className="rightDiv">
-          <a href="https://t.me/pedopepe" target="_blank" rel="noopener noreferrer"><img className="social" alt="Telegram" src={TG} /></a>
+          <a href="https://t.me/PedoPepeSol" target="_blank" rel="noopener noreferrer"><img className="social" alt="Telegram" src={TG} /></a>
           <a href="https://x.com/PedoPepeSol" target="_blank" rel="noopener noreferrer"><img className="social" alt="X" src={TW} /></a>
         </div>
         </div>
