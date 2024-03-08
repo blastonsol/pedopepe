@@ -13,7 +13,7 @@ import './App.css';
 
 function App() {
 
-  const contract = "asd23f344wf4fwfwhugighw4u5g45iguhiewuag"
+  const contract = "pow6L1rxNLh6PVKPbjLVAF8YNCYwgo7H9sZpqxfx7fH"
 
   return (
     <div className="App">
@@ -65,8 +65,8 @@ of craziness!</p>
           -LIQUIDITY KIDS- <br/> BURNED
         </p>
         <div className="dexBlock">
-          <a href="https://jup.ag/swap/cont-SOL" target="_blank" rel="noopener noreferrer"><img className="raydium dexImg" alt="raydium" src={raydium} /></a>
-          <a href="https://jup.ag/swap/cont-SOL" target="_blank" rel="noopener noreferrer"><img className="jupiter dexImg" alt="jupiter" src={jupiter} /></a>
+          <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=pow6L1rxNLh6PVKPbjLVAF8YNCYwgo7H9sZpqxfx7fH&fixed=in" target="_blank" rel="noopener noreferrer"><img className="raydium dexImg" alt="raydium" src={raydium} /></a>
+          <a href="https://jup.ag/swap/pow6L1rxNLh6PVKPbjLVAF8YNCYwgo7H9sZpqxfx7fH-SOL" target="_blank" rel="noopener noreferrer"><img className="jupiter dexImg" alt="jupiter" src={jupiter} /></a>
         </div>
       </div>
       <div className="section5">
