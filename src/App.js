@@ -59,7 +59,7 @@ of craziness!</p>
           -CA- <br/> {contract}
         </p>
         <p className="tokenomicText white">
-          -KIDS SUPPLY- <br/> 690,000,000
+          -KIDS SUPPLY- <br/> 88,000,000
         </p>
         <p className="tokenomicText white">
           -LIQUIDITY KIDS- <br/> BURNED
